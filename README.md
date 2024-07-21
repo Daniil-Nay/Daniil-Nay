@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/Daniil-Nay=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniil-Nay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on any project
