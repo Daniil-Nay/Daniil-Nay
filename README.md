@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Daniil-Nay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **deep learning, data engineering**
 - 👯 I’m looking to collaborate on **any project**
-- 💬 Ask me about **python, telegram, ML, GAN's, algorithms**
+- 💬 Ask me about **python, telegram bots, ML, GANs, algorithms**
 - 📫 How to reach me: **https://t.me/daniil_nxy**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniil-Nay&show_icons=true&theme=onedark)
