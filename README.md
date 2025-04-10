@@ -10,7 +10,7 @@ I am a dedicated software developer and researcher focused on implementing advan
 ## Current focus
 * Deep Learning & Data Engineering: expanding my knowledge in state-of-the-art machine learning techniques and scalable data architectures.
 
-8 Scalable data pipelines: implementing robust data engineering practices to support real-time analytics and decision-making processes.
+* Scalable data pipelines: implementing robust data engineering practices to support real-time analytics and decision-making processes.
 
 * Professional collaboration: actively seeking opportunities to work on projects that drive technological advancement and real-world impact.
 
