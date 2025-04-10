@@ -27,7 +27,7 @@ I'm always up for new challenges and collaborating on projects. If you have any 
 |--------------------|---------------------------------------------------------------------------------------|
 | **Languages**       | Python, C++, SQL, Bash                                                                    |
 | **Core ML/DL**      | PyTorch, TensorFlow, Transformers, LoRA, PEFT, HuggingFace, Scikit-learn             |
-| **NLP / LLM**       | LangChain, RAG, BERT, GPT, LLaMA, Qwen, Prompt Engineering, Whisper, spaCy, NLTK     |
+| **NLP / LLM**       | LangChain, RAG, LLMS (BERT, GPT, LLaMA, Qwen) Prompt Engineering, Whisper, spaCy, NLTK     |
 | **Data & Tools**    | Pandas, NumPy, SQLite, PostgreSQL, FastAPI, Docker, vLLM, Streamlit, Redis           |
 | **Misc**            | Git, VS Code, Jupyter, Telegram Bots                                                 |
 
