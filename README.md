@@ -21,7 +21,7 @@ I'm always up for new challenges and collaborating on projects. If you have any 
 ## Tech stack & tools
 
 
-| Category           | Tools & Technologies                                                                 |
+| Category           | Hard skills                                                                            |
 |--------------------|---------------------------------------------------------------------------------------|
 | **Languages**       | Python, SQL, Bash                                                                    |
 | **Core ML/DL**      | PyTorch, TensorFlow, Transformers, LoRA, PEFT, HuggingFace, Scikit-learn             |
