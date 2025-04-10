@@ -7,7 +7,6 @@
 ## About me 
 I am a dedicated software developer and researcher focused on implementing advanced solutions in the fields of deep learning, data engineering, and algorithm development. I thrive on solving complex challenges and creating robust, innovative solutions.
 
-
 My journey in software development is marked by continuous learning and collaborative projects in areas like Python development and ML.
 
 ## Current focus
