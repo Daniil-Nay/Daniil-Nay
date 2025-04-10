@@ -20,7 +20,6 @@ I'm always up for new challenges and collaborating on projects. If you have any 
 
 ## Tech stack & tools
 
-### 🛠 Tech Stack (NLP-focused)
 
 | Category           | Tools & Technologies                                                                 |
 |--------------------|---------------------------------------------------------------------------------------|
