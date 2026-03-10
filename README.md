@@ -18,7 +18,7 @@ My journey in software development is marked by continuous learning and collabor
 
 ## Contact & collaboration 
 
-I'm always up for new challenges and collaborating on projects. If you have any questions or want to work together, feel free to reach out on [Telegram](https://t.me/daniil_nxy)
+I'm always up for new challenges and collaborating on projects. If you have any questions or want to work together, feel free to reach out on [Telegram](https://t.me/daniil_nay)
 
 ## Tech stack & tools
 
